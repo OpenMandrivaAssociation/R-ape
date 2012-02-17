@@ -14,6 +14,8 @@ Requires:         R-gee
 BuildRequires:    R-devel Rmath-devel texlive-collection-latex 
 BuildRequires:    R-gee R-nlme R-lattice 
 BuildRequires:    R-gee 
+BuildRequires:    blas-devel
+BuildRequires:    lapack-devel
 
 %description
 ape provides functions for reading, writing, plotting, and manipulating
