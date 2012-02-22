@@ -9,11 +9,9 @@ Group:            Sciences/Mathematics
 License:          GPL (>= 2)
 URL:              http://cran.r-project.org/web/packages/%{packname}/index.html
 Source0:          http://cran.r-project.org/src/contrib/%{packname}_%{version}.tar.gz
-Requires:         R-gee R-nlme R-lattice 
-Requires:         R-gee 
-BuildRequires:    R-devel Rmath-devel texlive-collection-latex 
-BuildRequires:    R-gee R-nlme R-lattice 
-BuildRequires:    R-gee 
+Requires:         R-gee R-nlme R-lattice
+BuildRequires:    R-devel Rmath-devel texlive-collection-latex
+BuildRequires:    R-gee R-nlme R-lattice
 BuildRequires:    blas-devel
 BuildRequires:    lapack-devel
 
