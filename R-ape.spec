@@ -3,7 +3,7 @@
 
 Name:             R-%{packname}
 Version:          3.0.7
-Release:          1
+Release:          2
 Summary:          Analyses of Phylogenetics and Evolution
 Group:            Sciences/Mathematics
 License:          GPL (>= 2)
